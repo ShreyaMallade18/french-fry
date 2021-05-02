@@ -1,1 +1,1 @@
-# french-fry
+The recipe is about french fries;

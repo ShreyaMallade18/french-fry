@@ -1,0 +1,4 @@
+potatoes,
+salt,
+oil,
+
